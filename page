@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head><br>
+        <meta charset="utf-8">
+        <title>H6</title>
+        <center><h2 class="cursive"> Power Supplies </h2></center>
+        <style>
+            body{ 
+                background-color:beige;
+                
+            }
+            .story-title {
+                font-family: cursive;
+                
+            }
+            code
+                {
+                 font-family:serif;   
+            }
+       
+        </style>
+    </head>
+    <style></style>
+    <body>
+    
+    <h2> thats wanted..
+    <p>5 computers with powerful system that can play the newest games and able to programs. 
+Would like linux.All computer to be similar, mechanical keyboards, and a mouse with many button options.<br> Would like it to be cheapest as possible.
+</P>
+<table>
+        <thead>
+            <tr>
+                <th>project</th>
+                <th>Price</th>
+                
+            </tr>
+        </thead>
+          <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+               </tr>
+            <tr>
+                <td>></td>
+                <td>y</td>
+              </tr>
+             <tr>
+                <td>></td>
+                <td>y</td>
+                </tr>
+             <tr>
+                <td>></td>
+                <td>y</td>
+               </tr>
+             <tr>
+                <td>></td>
+                <td>y</td>
+            </tr>
+             <tr>
+                <td>></td>
+                <td>y</td>
+         </tr>
+        </tbody>
+    </table>
+
+  
+</body>
+</html>
