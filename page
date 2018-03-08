@@ -22,6 +22,9 @@
     </head>
     <style></style>
     <body>
+    <h5> table of contents 
+    
+    
     
     <h2> thats wanted..
     <p>5 computers with powerful system that can play the newest games and able to programs. 
@@ -38,7 +41,7 @@ Would like linux.All computer to be similar, mechanical keyboards, and a mouse w
           <tbody>
             <tr>
                 <td>16:9 Monitor</td>
-                <td></td>
+                <td>$99.99</td>
             </tr>
             <tr>
                 <td>cpu</td>
@@ -54,17 +57,25 @@ Would like linux.All computer to be similar, mechanical keyboards, and a mouse w
                 <td>$1500</td>
                 </tr>
              <tr>
-                <td>></td>
-                <td>y</td>
+                <td>>G.Skill - Ripjaws X Series 16GB (2 x 8GB) DDR3-1600 Memory 
+</td>
+                <td>$158.99</td>
                </tr>
              <tr>
-                <td>></td>
-                <td>y</td>
+                <td>>Western Digital - Blue 250GB 2.5" Solid State Drive storage
+</td>
+                <td>$141.24</td>
             </tr>
              <tr>
-                <td>></td>
-                <td>y</td>
+                <td>>MSI - GeForce GT 710 2GB Video Card
+</td>
+                <td>$63.88</td>
          </tr>
+         <tr>
+         <td></td>
+         <td></td>
+         </tr>
+         
         </tbody>
     </table>
 
